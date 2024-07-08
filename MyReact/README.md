@@ -91,7 +91,7 @@ and Install Mysql in our personal computer.
 6.login table is for admin and agent authentication and registration form.
 7.csvdata table is for uploading .csv format data to this table.
 8.Here i use table column name of csvdata as username,product,msi_number,serial_Number,cost so data insert in database only when .csv file contain that parameter but you manually make database according to you .csv file It is just an example.
-
+9.Default port is http://localhost:8080/ you may also able to change according to requiredment but always check that you port is same as port meaning you code.
 # Frontend Run
 
 start react as frontend D:\MyReact\frontend>npm start
