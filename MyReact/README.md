@@ -201,6 +201,19 @@ start server in backend D:\MyReact\backend>npm start
 npm start
 ```
 
+# GUI:
+![1](https://github.com/Ankitking25/Crun-Web-Application/assets/84654362/3ba23ebb-ce0c-40d1-99fd-ee29a00d0a90)
+
+![2](https://github.com/Ankitking25/Crun-Web-Application/assets/84654362/842717d4-1785-44d2-9cf7-a4206c23e66a)
+![3](https://github.com/Ankitking25/Crun-Web-Application/assets/84654362/a385cbd7-6db0-4d57-b229-8ec6d1ce05b4)
+![4](https://github.com/Ankitking25/Crun-Web-Application/assets/84654362/f913add0-c59a-40a3-b64f-2c237c5d0c65)
+![5](https://github.com/Ankitking25/Crun-Web-Application/assets/84654362/497f5eb2-2e5c-4814-8cc9-fa6428a3f9ae)
+![6](https://github.com/Ankitking25/Crun-Web-Application/assets/84654362/0a57ca43-b5a2-4435-a71b-a50014524dfa)
+
+![7](https://github.com/Ankitking25/C
+![8](https://github.com/Ankitking25/Crun-Web-Application/assets/84654362/26935ffb-12c7-480d-8524-5dc5242359c3)
+run-Web-Application/assets/84654362/748c852e-fba5-4eb9-8e25-a465314cfa66)
+
 
 # Now it work
 
