@@ -91,6 +91,15 @@ and Install Mysql in our personal computer.
 6.login table is for admin and agent authentication and registration form.
 7.csvdata table is for uploading .csv format data to this table.
 8.Here i use table column name of csvdata as username,product,msi_number,serial_Number,cost so data insert in database only when .csv file contain that parameter but you manually make database according to you .csv file It is just an example.
+This is .csv file for my database csvdata:
+```
+username,product,msi_number,serial_Number,cost
+John,Dell Laptop,12345,98765,1200
+Alice,HP Printer,54321,24680,300
+Bob,Apple iPhone,98765,13579,800
+Eve,Samsung TV,24680,54321,1500
+Mark,Logitech Mouse,13579,12345,50
+```
 9.Default port is http://localhost:8080/ you may also able to change according to requiredment but always check that you port is same as port meaning you code.
 # Frontend Run
 
