@@ -90,6 +90,7 @@ and Install Mysql in our personal computer.
 5.signup is my main database name and login and csvdata are table name.
 6.login table is for admin and agent authentication and registration form.
 7.csvdata table is for uploading .csv format data to this table.
+8.Here i use table column name of csvdata as username,product,msi_number,serial_Number,cost so data insert in database only when .csv file contain that parameter but you manually make database according to you .csv file It is just an example.
 
 # Frontend Run
 
